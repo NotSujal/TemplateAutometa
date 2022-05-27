@@ -1,0 +1,12 @@
+To,
+$0
+
+Subject: Application to be a part of your organization.
+
+Respected Sir/Ma'am,
+Hello, This is $1, from $2. I found about your organization the other day and is eager to join you.
+
+I am a $3 and have good experience in $4. Kindly let me know if there is any vacancy.
+
+Thanking you,
+$1
